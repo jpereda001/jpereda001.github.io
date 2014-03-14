@@ -56,9 +56,8 @@ aside {
 
  a:link{color:white;}
  a:visited{color:white;}
- a:hover {}
- a:active{
-}
+ a:hover {color:#999999}
+ a:active{color:#999999}
  a:focus {}
 
 article {
