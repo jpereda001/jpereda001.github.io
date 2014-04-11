@@ -21,11 +21,6 @@ p {
 }
 
 
-header {
-    height: 185px;
-    
-}
-
  h1 {
     font-family:sans-serif,arial,helvetica;
     font-size: 32px;
@@ -36,18 +31,25 @@ header {
     
 h2 {
     font-family:sans-serif,arial,helvetica;
-    float:left;
+
     font-size:16px;
     font-weight:100  
 }
   
+img {
+ height:400px;
+    width:400px;
+ 
+
+
+}
 aside { 
  float:left;
     margin: 0 75% 0 0
 }
  nav {
-   float: left;
-    margin-top: 35px;
+  
+    margin-top: 40px;
    font-family:'Lato';
 }
         
