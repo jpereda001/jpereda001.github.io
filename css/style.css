@@ -29,16 +29,25 @@ p {
     
 }
     
+
 h2 {
     font-family:sans-serif,arial,helvetica;
 
     font-size:16px;
     font-weight:100  
 }
+
+
+h3 { 
+color:#999999;
+
+}
+
+
   
 img {
  height:400px;
-    width:400px;
+    width:350px;
  
 
 
@@ -48,7 +57,7 @@ aside {
     margin: 0 75% 0 0
 }
  nav {
-  
+    font-size:18px;
     margin-top: 40px;
    font-family:'Lato';
 }
@@ -58,10 +67,10 @@ aside {
     text-decoration: none; 
 }
 
- a:link{color:white;}
- a:visited{color:white;}
- a:hover {color:#999999}
- a:active{color:#999999}
+ a:link{color:#999999;}
+ a:visited{color:#999999;}
+ a:hover {color:white}
+ a:active{color:white}
  a:focus {}
 
 article {
@@ -81,9 +90,14 @@ font-size: 24px;
     line-height: 30px
 }
 
+.bio { 
+padding-bottom:10px;
+
+}
+
 footer{
     color:white;
     font-size: 10px; 
-     padding: 0 10px 0 10px;
+     padding-top:40px;
 }
 
